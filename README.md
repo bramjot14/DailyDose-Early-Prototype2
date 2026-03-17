@@ -5,7 +5,9 @@ DailyDose is a SwiftUI medication reminder app prototype.
 ## Team Contributions
 
 Member 01
+--
 Bramjot Singh
+--
 Student ID: 101511990
 
 - UI design and layout
@@ -13,7 +15,9 @@ Student ID: 101511990
 - DoseRowView and HistoryRowView components
 
 Member 02
+--
 Ripon Sutradhar Rimon
+--
 Student ID: 101517912
 
 - Data models (Medication, DoseLog)
@@ -21,7 +25,9 @@ Student ID: 101517912
 - Data persistence
 
 Member 03
+--
 Al Shahriar Fahmid
+--
 Student ID: 101515027
 
 - Add Medication feature
